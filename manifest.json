@@ -1,11 +1,11 @@
 {
-    "name": "openweb",
-    "short_name": "openweb",
+    "name": "OPEN Registration",
+    "short_name": "OPEN",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Registration App for OPEN.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
