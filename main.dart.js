@@ -42642,7 +42642,7 @@ $1:function(a){return"\\"+H.a(a.h(0,0))}}
 N.VC.prototype={
 $1:function(a){return a.h(0,1)}}
 F.x_.prototype={
-N:function(a){return new S.p9(new F.pl(null),P.aR(["/redirect",new F.Lz()],u.N,u.hw),"Flutter Demo",null)}}
+N:function(a){return new S.p9(new F.pl(null),P.aR(["/redirect",new F.Lz()],u.N,u.hw),"OPEN Registration",null)}}
 F.Lz.prototype={
 $1:function(a){return new F.kb(null)},
 $S:159}
